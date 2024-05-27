@@ -1,1 +1,1 @@
-# Homework-5-House_of_Mouse
+This homework taught us to formulate our data tables in a war that would be easily understood by others. As well, it taught us to practice and pick specific stylistic designs befitting our own flavor and biases towards text and color design. 
